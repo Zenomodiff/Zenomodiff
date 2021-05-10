@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenomodiff&label=Profile%20views&color=0e75b6&style=flat" alt="zenomodiff" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zenomodiff&label=Profile%20views&color=0e75b6&style=flat" alt="zenomodiff" /> </p>
 
 - 🔭 What Iam Doing **Just Content Creation For Youtube Now**
 
 - 🌱 I’m currently learning **Game development & Flutter**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/ZenoModiff](https://www.youtube.com/ZenoModiff)
+- 👨‍💻 All of my projects are available at [ZenoModiff](https://www.youtube.com/ZenoModiff)
 
 - 💬 Ask me about **Arduino Coding , Youtube Content Creation , Electronics , Strilling Engines**
 
