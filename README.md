@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Game development & Flutter**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UC3x_svxO5Dxl0VesjEMpuGg](https://www.youtube.com/ZenoModiff)
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/ZenoModiff](https://www.youtube.com/ZenoModiff)
 
 - 💬 Ask me about **Arduino Coding , Youtube Content Creation , Electronics , Strilling Engines**
 
