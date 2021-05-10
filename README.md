@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenomodiff&label=Profile%20views&color=0e75b6&style=flat" alt="zenomodiff" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenomodiff" alt="zenomodiff" /></a> </p>
-
 - 🔭 What Iam Doing **Just Content Creation For Youtube Now**
 
 - 🌱 I’m currently learning **Game development & Flutter**
