@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zenomodiff&label=Profile%20views&color=0e75b6&style=flat" alt="zenomodiff" /> </p>
 
-- 🔭 What Iam Doing **Just Content Creation For Youtube Now**
+- 🔭 Right Now **Just a Fulltime Youtuber**
 
 - 🌱 I’m currently learning **Game development & Flutter**
 
