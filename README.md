@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sreeram Aj / Zeno Modiff</h1>
 <h3 align="center">Iam A Civil Engineer By Profession But An Electronic Engineer By Experience & Mind</h3>
 
+<p align="left"> <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenomodiff&label=Profile%20views&color=0e75b6&style=flat" alt="zenomodiff" /> </p>
 
 - 🔭 What Iam Doing **Just Content Creation For Youtube Now**
