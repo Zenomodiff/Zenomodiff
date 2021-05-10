@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zenomodiff&label=Profile%20views&color=0e75b6&style=flat" alt="zenomodiff" /> </p>
 
-- 🔭 Right Now **Just a Fulltime Youtuber**
+- 🔭 Right Now **Just a Full-Time Youtuber**
 
 - 🌱 I’m currently learning **Game development & Flutter**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Arduino Coding , Youtube Content Creation , Electronics , Strilling Engines**
 
-- 📫 How to reach me **sreeramzeno@gmail.com , sreeramaj53@gmail.com**
+- 📫 How to reach me **sreeramzeno@gmail.com  sreeramaj53@gmail.com**
 
 - ⚡ Fun fact **I drink Coffe. Lots of it. Especially Espresso. That’s my drink of choice!**
 
