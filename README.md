@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Arduino Coding , Youtube Content Creation , Electronics , Strilling Engines**
 
-- 📫 How to reach me **sreeramzeno@gmail.com   sreeramaj53@gmail.com**
+- 📫 How to reach me **sreeramzeno@gmail.com**
 
 - ⚡ Fun fact **I drink Coffe. Lots of it. Especially Espresso. That’s my drink of choice!**
 
