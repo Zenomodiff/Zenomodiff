@@ -18,7 +18,8 @@
 - ⚡ Fun fact **I drink Coffe. Lots of it. Especially Espresso. That’s my drink of choice!**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-3.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://easyeda.com/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_068775cb495a74abb09de055d82e9360/easyeda.png" alt="illustrator" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-3.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://easyeda.com/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_068775cb495a74abb09de055d82e9360/easyeda.png" alt="illustrator" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
 <a href="#"><img src="https://github.com/LCDS97/LCDS97/blob/output/github-contribution-grid-snake.svg" />
   </a>
