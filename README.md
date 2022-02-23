@@ -27,5 +27,4 @@
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenomodiff&" alt="zenomodiff" /></p>
 
-<a href="#"><img src="https://github.com/LCDS97/LCDS97/blob/output/github-contribution-grid-snake.svg" />
-  </a>
+![snake gif](https://github.com/Zenomodiff/Zenomodiff/blob/output/github-contribution-grid-snake.svg)
