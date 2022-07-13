@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sreeram Aj / Zeno Modiff</h1>
 <h3 align="center">Iam A Civil Engineer By Profession But An Electronic Engineer By Experience & Mind</h3>
 
-[![Hey,I'm Sreeram Aj / Zeno Modiff](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f468-200d-1f4bb&text=Hey%252C%2520I%27m%2520Sreeram.AJ%2520%2520%2520)](https://pimp-my-readme.webapp.io)
-
 <p align="center"> <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zenomodiff&label=Profile%20views&color=0e75b6&style=flat" alt="zenomodiff" /> </p>
